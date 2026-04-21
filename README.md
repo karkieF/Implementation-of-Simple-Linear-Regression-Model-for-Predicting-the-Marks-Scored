@@ -113,7 +113,7 @@ plt.show()
 ```
 
 ## Output:
-![Uploading image.png…]()
+<img width="805" height="658" alt="image" src="https://github.com/user-attachments/assets/89b991d0-79db-4a8e-8eba-9a22c1806b2f" />
 
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
